@@ -8,7 +8,7 @@ The notebook included for this week also gives a useful guide for training a k-m
 
 A few additional notes:
 
-* K-means clustering is a very simple algorithm so the resutls achieved may weel be beaten by more sophisticated methods, don't be disheartened if the results you get aren't what you expected!
+* K-means clustering is a very simple algorithm so the resutls achieved may well be beaten by more sophisticated methods, don't be disheartened if the results you get aren't what you expected!
 * K-means clustering is unsupervised, so we can't assess the results of the model be comparing the labels assigned. Bare this in mind as the iris dataset is labelled...
 * When you have finished, please create a public GitHub repository containing your full solution including the code for the data analysis and visualisations - unfortunately I will not have the time to mark or review these, but your learning and development should be celebrated!
 * Your solution can either be in the form of a `.py` or an interactive notebook.
